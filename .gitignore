@@ -3,3 +3,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# virtual env for python 3
+
+backend/jobTech
