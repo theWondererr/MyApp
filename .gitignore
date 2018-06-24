@@ -5,5 +5,12 @@
 .LSOverride
 
 # virtual env for python 3
+backend/jobTecj
 
-backend/jobTech
+#data
+*.csv
+*.xlsx
+*.xlsm
+
+#vscode
+.vscode/
